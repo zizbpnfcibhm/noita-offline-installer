@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Noita is a magical action roguelite set in a world where every pixel is physically simulated. Fight, explore, melt, burn, freeze and evaporate your way through the procedurally generated world using spells you've created yourself.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,11 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **Processor** | Min: Dual Core CPU, Intel i5 or better / Rec: The more cores the better | Intel Core i5 / Apple M1 |
+| **Memory** | Min: 4 GB RAM / Rec: 8 GB RAM | 4 GB RAM |
+| **Graphics** | Min: 512MB VRAM, OpenGL 3.0 support / Rec: 1024MB VRAM, OpenGL 3.0 support | Metal-capable GPU |
+| **Storage** | Min: 1600 MB available space / Rec: 2500 MB available space | 1600 MB available space |
+| **OS *** | Windows Vista, 7, 8/8.1, 10 | Windows Vista, 7, 8/8.1, 10 |
 
 ---
 
